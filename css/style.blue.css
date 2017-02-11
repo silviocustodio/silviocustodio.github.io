@@ -23,6 +23,24 @@ body,
 
 }
 
+h1.contact {
+
+
+  text-align: center;
+  color: #fff;
+  font-style: 40px;
+  background: rgba(0,0,0,0.4);
+  margin-top: 25%;
+
+}
+
+background-contact{
+ background: url('../img/home13.jpg') center center no-repeat;
+
+
+
+}
+
 /*
 
 =====================

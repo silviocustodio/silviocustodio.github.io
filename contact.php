@@ -5,7 +5,7 @@
  */
 $from = 'IT WORKER <adm.ti.silviocustodio@gmail.com>';
 $sendTo = 'IT WORKER <adm.ti.silviocustodio@gmail.com>';
-$subject = 'New message from contact form';
+$subject = 'New message from contact form Portfolio';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
 $htmlHeader = '';
 $htmlFooter = '';
